@@ -6,7 +6,10 @@
       <change afterPath="$PROJECT_DIR$/../python_prob/.idea/python_prob.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../raznoe/.idea/raznoe.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../raznoe/kalkulyator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samplesite/bboard/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samplesite/home/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/samplesite/bboard/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/samplesite/bboard/models.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/samplesite/samplesite/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/samplesite/samplesite/urls.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
