@@ -16,8 +16,10 @@ Including another URLconf
 from django.contrib import admin
 from django.urls import path
 from bboard.views import index
+from home.views import home
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('index', index)
+    path('bboard/', index),
+    path('home/', home)
 ]
